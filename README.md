@@ -11,7 +11,6 @@ Este é um projeto de chat em tempo real desenvolvido com **Next.js** no fronten
 
 ### 1. Clonar o repositório
 
-```bash
 git clone https://github.com/seu-usuario/chat-realtime.git
 cd chat-realtime
 
